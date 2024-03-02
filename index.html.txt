@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+    <style>
+       
+ 
+    
+    <head>
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+        <div class="card border" >
+            <img  src="Image/Miroslav" alt="Miroslav selfie">
+            <div>
+                <h1> Miroslav Mitrovic</h1>
+                <p> FrontEnd Developer</p>
+                <h3>Belgrade, Serbia</h3>
+            </div>     
+        </div>
+    </body>
+</html>
